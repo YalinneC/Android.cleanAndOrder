@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CleanAndOrder</string>
+    <string name="action_settings">Settings</string>
+    <string name="choresTitle">List of chores</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="patio">Patio</string>
+    <string name="livingRoom">Livingroom</string>
+    <string name="groupName">Group Name:</string>
+    <string name="members">Members:</string>
+    <string name="next">Next</string>
+    <string name="newRoom">New Room</string>
+    <string name="deleteRoom">Delete Room</string>
+    <string name="listOfRooms">List of Rooms</string>
+    <string name="listOfChores">List of Chores</string>
+    <string name="selectChores">Select Chores</string>
+    <string name="newChore">New Chore</string>
+    <string name="email">Email</string>
+</resources>
